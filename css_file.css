@@ -1,4 +1,15 @@
 ul {
-  margin: auto;
-  color: green;
+  list-style-type: square;
+}
+
+h1 {
+  text-align: center;
+  font-size: 35px;
+}
+
+ul li {
+  padding: 10px;
+}
+
+body {
 }
